@@ -3,7 +3,7 @@ This is your GitHub profile README. It auto-displays at github.com/michaelhuo203
 To deploy: create a repo named `michaelhuo2030` (same as your username), add this file as README.md, commit + push.
 -->
 
-### Michael (Xiaojie) Huo · 霍小杰
+### Michael (Xiaojie) Huo · 霍枵杰
 
 > Building [`millisecond-era`](https://github.com/michaelhuo2030/millisecond-era) — a 28nm ReRAM compute-in-memory chip for continuous on-device AI memory. 10-year horizon, solo-led, Shanghai.
 > Until the chip ships, I build the algorithms + software stack in the open: [`hdc-neon`](https://github.com/michaelhuo2030/hdc-neon), [`hdc-wgsl`](https://michaelhuo2030.github.io/hdc-neon/), and a 5-paper HDC research series.
